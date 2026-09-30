@@ -1,31 +1,34 @@
 <!-- ============ HERO ============ -->
-<table align="center" width="100%">
-  <tr>
-    <td width="60%" valign="middle">
-      <img src="https://img.shields.io/badge/%E2%97%8F%20SOU%20ESTUDANTE%20E%20DESENVOLVEDORA-0a1a33?style=for-the-badge&labelColor=0a1a33&color=1e3a5f" alt="Tag" />
-      <h1>Oi, eu sou a <span>Jordana</span></h1>
-      <h3>✧ Dados, análises e insights ✧</h3>
-      <p align="justify">
-        Graduada em Tecnologia da Informação e estudante de Análise e Desenvolvimento de Sistemas no 4º período pela UNAMA. Gosto de transformar dados e ideias em soluções digitais.
-      </p>
-      <a href="https://github.com/whoolv?tab=repositories">
-        <img src="https://img.shields.io/badge/Ver%20meus%20projetos-%E2%86%97-1e3a6e?style=for-the-badge&logoColor=bfdbfe" alt="Ver projetos" />
-      </a>
-      <a href="mailto:jordanadeolv07@gmail.com">
-        <img src="https://img.shields.io/badge/Falar%20comigo-E--mail-0a1a33?style=for-the-badge&logo=gmail&logoColor=bfdbfe" alt="Enviar e-mail" />
-      </a>
-      <br><br>
-      <a href="https://github.com/whoolv">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=93c5fd&vCenter=true&width=420&lines=Welcome+to+my+GitHub;Analysis+%26+Data;Fullstack+Web+%26+Mobile" alt="Typing SVG" />
-      </a>
-    </td>
-    <td width="40%" valign="middle" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmN1MTRhZHc0enQ4b3F3MnYwdzh2ZDExc2Jqamx4ZjJqaDQ4ZzZ0eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kakbWuHyGHXTH0Gzul/giphy.gif" width="280" alt="GIF 1" />
-      <br><br>
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjE5aHh0YmJyNnFjNzM0M2Ixa2xqYjIxajQxZ2J3YmV2ZmxzMjVjeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ISRLvgGsqFn4qJBI8N/giphy.gif" width="280" alt="GIF 2" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://img.shields.io/badge/%E2%97%8F%20SOU%20ESTUDANTE%20E%20DESENVOLVEDORA-0a1a33?style=for-the-badge&labelColor=0a1a33&color=1e3a5f" alt="Tag" />
+
+<h1>Oi, eu sou a <span>Jordana</span></h1>
+<h3>✧ Dados, análises e insights ✧</h3>
+
+<p align="justify">
+  Graduada em Tecnologia da Informação e estudante de Análise e Desenvolvimento de Sistemas no 4º período pela UNAMA. Gosto de transformar dados e ideias em soluções digitais.
+</p>
+
+<a href="https://github.com/whoolv?tab=repositories">
+  <img src="https://img.shields.io/badge/Ver%20meus%20projetos-%E2%86%97-1e3a6e?style=for-the-badge&logoColor=bfdbfe" alt="Ver projetos" />
+</a>
+<a href="mailto:jordanadeolv07@gmail.com">
+  <img src="https://img.shields.io/badge/Falar%20comigo-E--mail-0a1a33?style=for-the-badge&logo=gmail&logoColor=bfdbfe" alt="Enviar e-mail" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/whoolv">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=93c5fd&vCenter=true&width=420&lines=Welcome+to+my+GitHub;Analysis+%26+Data;Fullstack+Web+%26+Mobile" alt="Typing SVG" />
+</a>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmN1MTRhZHc0enQ4b3F3MnYwdzh2ZDExc2Jqamx4ZjJqaDQ4ZzZ0eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kakbWuHyGHXTH0Gzul/giphy.gif" width="280" alt="GIF 1" />
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjE5aHh0YmJyNnFjNzM0M2Ixa2xqYjIxajQxZ2J3YmV2ZmxzMjVjeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ISRLvgGsqFn4qJBI8N/giphy.gif" width="280" alt="GIF 2" />
+
+</div>
 
 <br>
 
@@ -96,6 +99,6 @@
 
 <div align="center">
   <a href="https://open.spotify.com/playlist/4r1FAAHQ5ze6Ci0LQNLEwc?si=45e64ef725194676">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=1DB954&height=80&text=OUVIR%20NO%20SPOTIFY&fontColor=ffffff&fontSize=24&fontAlign=50&fontAlignY=50" width="360" alt="Ouvir playlist no Spotify" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1DB954&height=80&text=OUVIR%20NO%20SPOTIFY&fontColor=ffffff&fontSize=24&fontAlign=50&fontAlignY=50" width="360" alt="Ouvir playlist no Spotify" />
+</a>
 </div>
