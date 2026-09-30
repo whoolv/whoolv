@@ -1,5 +1,6 @@
 <!-- ============ HERO ============ -->
-<div align="center">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjE5aHh0YmJyNnFjNzM0M2Ixa2xqYjIxajQxZ2J3YmV2ZmxzMjVjeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ISRLvgGsqFn4qJBI8N/giphy.gif" width="220" alt="GIF 2" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmN1MTRhZHc0enQ4b3F3MnYwdzh2ZDExc2Jqamx4ZjJqaDQ4ZzZ0eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kakbWuHyGHXTH0Gzul/giphy.gif" width="220" alt="GIF 1" />
 
 <img src="https://img.shields.io/badge/%E2%97%8F%20SOU%20ESTUDANTE%20E%20DESENVOLVEDORA-0a1a33?style=for-the-badge&labelColor=0a1a33&color=1e3a5f" alt="Tag" />
 
@@ -23,12 +24,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=93c5fd&vCenter=true&width=420&lines=Welcome+to+my+GitHub;Analysis+%26+Data;Fullstack+Web+%26+Mobile" alt="Typing SVG" />
 </a>
 
-<br><br>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmN1MTRhZHc0enQ4b3F3MnYwdzh2ZDExc2Jqamx4ZjJqaDQ4ZzZ0eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kakbWuHyGHXTH0Gzul/giphy.gif" width="280" alt="GIF 1" />
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjE5aHh0YmJyNnFjNzM0M2Ixa2xqYjIxajQxZ2J3YmV2ZmxzMjVjeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ISRLvgGsqFn4qJBI8N/giphy.gif" width="280" alt="GIF 2" />
-
-</div>
 
 <br>
 
