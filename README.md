@@ -1,12 +1,11 @@
 <!-- ============ HERO ============ -->
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YjF2YXBoZmRvOTN5cXZwMnIweXQ0Mm1tbTB1NnZ3M204djQ3enBkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kakbWuHyGHXTH0Gzul/giphy.gif" width="480" alt="Animação de tecnologia" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YjF2YXBoZmRvOTN5cXZwMnIweXQ0Mm1tbTB1NnZ3M204djQ3enBkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kakbWuHyGHXTH0Gzul/giphy.gif" width="50%" alt="Animação de tecnologia" />
 
 <img src="https://img.shields.io/badge/%E2%97%8F%20SOU%20ESTUDANTE%20E%20DESENVOLVEDORA-0a1a33?style=for-the-badge&labelColor=0a1a33&color=1e3a5f" alt="Tag" />
 
-<h3>Oi, eu sou a Jordana</h3>
 <h3>✧ Dados, análises e insights ✧</h3>
 
-<p align="justify">
+<p align="">
   Graduada em Tecnologia da Informação e estudante de Análise e Desenvolvimento de Sistemas no 4º período pela UNAMA. Gosto de transformar dados e ideias em soluções digitais.
 </p>
 
