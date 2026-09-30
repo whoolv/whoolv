@@ -1,101 +1,94 @@
-<!-- Troque SEU-EMAIL, SEU-LINKEDIN e os nomes dos repositórios (NOME-DO-REPO-1/2) -->
-
-<!-- ============ DIGITANDO ============ -->
-<div align="center">
-  <a href="https://github.com/whoolv">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6EE7B7&center=true&vCenter=true&width=620&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Focada+em+An%C3%A1lise+de+Dados+%F0%9F%93%8A;%22Quando+voc%C3%AA+est%C3%A1+perdido%2C+procure+o+padr%C3%A3o.%22" alt="Typing SVG" />
-  </a>
-</div>
-
-<br>
-
-<h3 align="center"><code>✧ Bem-vinda ao meu perfil! ✧</code></h3>
-
----
-
-<h2 align="center">👩‍💻 Sobre mim</h2>
-
-<p align="center">
-  Me chamo <b>Jordana</b> e sou estudante de <b>Análise e Desenvolvimento de Sistemas</b>.<br>
-  Sou apaixonada por tecnologia e tenho foco em <b>análise de dados</b>: gosto de transformar<br>
-  informação bagunçada em respostas claras, dashboards e decisões melhores.
-</p>
-
-<p align="center">
-  Também desenvolvo projetos <b>fullstack</b> para web e mobile e faço <b>design de eventos</b><br>
-  como freelancer. Inspirada pela engenhoca de Piltover e pela sobrevivência de um mundo<br>
-  pós-apocalíptico, aprendo um pouco mais a cada commit.
-</p>
-
-<br>
-
-<!-- ============ BADGES ============ -->
-<div align="center">
-  <a href="https://github.com/whoolv">
-    <img src="https://img.shields.io/badge/GitHub-whoolv-052e16?style=for-the-badge&logo=github&logoColor=a7f3d0" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Jordana-14532d?style=for-the-badge&logo=linkedin&logoColor=a7f3d0" alt="LinkedIn" />
-  </a>
-  <a href="mailto:SEU-EMAIL@exemplo.com">
-    <img src="https://img.shields.io/badge/E--mail-contato-166534?style=for-the-badge&logo=gmail&logoColor=a7f3d0" alt="Email" />
-  </a>
-  <br>
-  <img src="https://img.shields.io/github/followers/whoolv?label=Seguidores&style=for-the-badge&color=0b1f14&labelColor=14532d&logo=github&logoColor=a7f3d0" alt="Seguidores" />
-  <img src="https://komarev.com/ghpvc/?username=whoolv&label=Visitas&color=14532d&style=for-the-badge" alt="Visitas" />
-</div>
+<!-- ============ HERO ============ -->
+<table align="center" width="100%">
+  <tr>
+    <td width="60%" valign="middle">
+      <img src="https://img.shields.io/badge/%E2%97%8F%20SOU%20ESTUDANTE%20E%20DESENVOLVEDORA-052e16?style=for-the-badge&labelColor=052e16&color=14532d" alt="Tag" />
+      <h1>Oi, eu sou a <span>Jordana</span></h1>
+      <h3>✧ Eu construo coisas para a web ✧</h3>
+      <p align="justify">
+        Graduada em Tecnologia da Informação e estudante de Análise e Desenvolvimento de Sistemas no 4º período pela UNAMA. Gosto de transformar dados e ideias em soluções digitais.
+      </p>
+      <a href="https://github.com/whoolv?tab=repositories">
+        <img src="https://img.shields.io/badge/Ver%20meus%20projetos-%E2%86%97-166534?style=for-the-badge&logoColor=a7f3d0" alt="Ver projetos" />
+      </a>
+      <a href="mailto:jordanadeolv07@gmail.com">
+        <img src="https://img.shields.io/badge/Falar%20comigo-E--mail-052e16?style=for-the-badge&logo=gmail&logoColor=a7f3d0" alt="Enviar e-mail" />
+      </a>
+      <br><br>
+      <a href="https://github.com/whoolv">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=6EE7B7&vCenter=true&width=420&lines=Welcome+to+my+GitHub;Analysis+%26+Data;Fullstack+Web+%26+Mobile" alt="Typing SVG" />
+      </a>
+    </td>
+    <td width="40%" valign="middle" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWJjOWIzZ2lyeHJmZmw1czh0b3Y5NW5mNTJlZ3hmbzJ6ZDc3Z2c0MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VIil2RgIJB6v1POjX8/giphy.gif" width="280" alt="Ellie" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## ⚙️ Linguagens e Tecnologias
+<!-- ============ SOBRE MIM ============ -->
+<p align="center"><sub><b>SOBRE MIM</b></sub></p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="middle">
+      <p align="justify">
+        Ao terminar ADS, sigo para Redes de Computadores, e estou planejando uma pós-graduação em Análise de Dados e Banco de Dados. Construo projetos fullstack (web e mobile) e faço design de eventos nas horas vagas.
+      </p>
+    </td>
+    <td width="50%" valign="middle" align="center">
+      <table>
+        <tr>
+          <td align="center"><h3>4º</h3><sub>período de ADS</sub></td>
+          <td align="center"><h3>UNAMA</h3><sub>instituição</sub></td>
+        </tr>
+        <tr>
+          <td align="center"><h3>Web + Mobile</h3><sub>projetos fullstack</sub></td>
+          <td align="center"><h3>Dados</h3><sub>foco de estudo</sub></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://api.iconify.design/logos:python.svg" width="48" height="48" alt="Python" title="Python" />
-  <img src="https://api.iconify.design/logos:postgresql.svg" width="48" height="48" alt="SQL" title="SQL" />
-  <img src="https://api.iconify.design/logos:pandas-icon.svg" width="48" height="48" alt="Pandas" title="Pandas" />
-  <img src="https://api.iconify.design/devicon:numpy.svg" width="48" height="48" alt="NumPy" title="NumPy" />
-  <img src="https://api.iconify.design/logos:jupyter.svg" width="48" height="48" alt="Jupyter" title="Jupyter" />
-  <img src="https://api.iconify.design/logos:microsoft-power-bi.svg" width="48" height="48" alt="Power BI" title="Power BI" />
-  <img src="https://api.iconify.design/vscode-icons:file-type-excel.svg" width="48" height="48" alt="Excel" title="Excel" />
-  <img src="https://api.iconify.design/logos:javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />
-  <img src="https://api.iconify.design/logos:nodejs-icon.svg" width="48" height="48" alt="Node.js" title="Node.js" />
-  <img src="https://api.iconify.design/logos:capacitorjs-icon.svg" width="48" height="48" alt="Capacitor" title="Capacitor" />
-  <img src="https://api.iconify.design/logos:html-5.svg" width="48" height="48" alt="HTML5" title="HTML5" />
-  <img src="https://api.iconify.design/logos:css-3.svg" width="48" height="48" alt="CSS3" title="CSS3" />
-  <img src="https://api.iconify.design/logos:git-icon.svg" width="48" height="48" alt="Git" title="Git" />
-</p>
+---
 
-<br>
+<!-- ============ TECNOLOGIAS ============ -->
+<p align="center"><sub><b>TECNOLOGIAS COM AS QUAIS EU TRABALHO</b></sub></p>
 
-## 📊 Estatísticas
+<div align="center">
+  <img src="https://api.iconify.design/logos:python.svg" width="44" height="44" alt="Python" title="Python" />
+  <img src="https://api.iconify.design/logos:postgresql.svg" width="44" height="44" alt="SQL" title="SQL" />
+  <img src="https://api.iconify.design/logos:pandas-icon.svg" width="44" height="44" alt="Pandas" title="Pandas" />
+  <img src="https://api.iconify.design/devicon:numpy.svg" width="44" height="44" alt="NumPy" title="NumPy" />
+  <img src="https://api.iconify.design/logos:jupyter.svg" width="44" height="44" alt="Jupyter" title="Jupyter" />
+  <img src="https://api.iconify.design/logos:microsoft-power-bi.svg" width="44" height="44" alt="Power BI" title="Power BI" />
+  <img src="https://api.iconify.design/vscode-icons:file-type-excel.svg" width="44" height="44" alt="Excel" title="Excel" />
+  <img src="https://api.iconify.design/logos:javascript.svg" width="44" height="44" alt="JavaScript" title="JavaScript" />
+  <img src="https://api.iconify.design/logos:nodejs-icon.svg" width="44" height="44" alt="Node.js" title="Node.js" />
+  <img src="https://api.iconify.design/logos:capacitorjs-icon.svg" width="44" height="44" alt="Capacitor" title="Capacitor" />
+  <img src="https://api.iconify.design/logos:html-5.svg" width="44" height="44" alt="HTML5" title="HTML5" />
+  <img src="https://api.iconify.design/logos:css-3.svg" width="44" height="44" alt="CSS3" title="CSS3" />
+  <img src="https://api.iconify.design/logos:git-icon.svg" width="44" height="44" alt="Git" title="Git" />
+</div>
 
-<p>
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=whoolv&show_icons=true&count_private=true&custom_title=Estat%C3%ADsticas%20do%20GitHub%20de%20Jordana&bg_color=0b1f14&title_color=6ee7b7&icon_color=34d399&text_color=d1fae5&ring_color=34d399&border_color=166534&border_radius=10&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoolv&layout=compact&langs_count=8&custom_title=Tecnologias&bg_color=0b1f14&title_color=6ee7b7&icon_color=34d399&text_color=d1fae5&ring_color=34d399&border_color=166534&border_radius=10&locale=pt-br" alt="Tecnologias mais usadas" />
-</p>
+---
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=whoolv&locale=pt_BR&border_radius=10&background=0b1f14&stroke=166534&ring=34d399&fire=6ee7b7&currStreakNum=d1fae5&sideNums=d1fae5&currStreakLabel=6ee7b7&sideLabels=6ee7b7&dates=86efac&hide_border=false&card_border=166534" alt="Sequência de contribuições" />
-</p>
+<!-- ============ HABILIDADES ============ -->
 
-<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoolv&layout=compact&hide_title=true&langs_count=8&card_width=500&bg_color=0b1f14&text_color=a7f3d0&border_color=14532d" alt="Linguagens mais usadas" />
+</div>
 
-## 🚀 Projetos em destaque
+---
 
-<p>
-  <a href="https://github.com/whoolv/NOME-DO-REPO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=whoolv&repo=NOME-DO-REPO-1&bg_color=0b1f14&title_color=6ee7b7&icon_color=34d399&text_color=d1fae5&ring_color=34d399&border_color=166534&border_radius=10&locale=pt-br" alt="Projeto 1" />
+<!-- ============ PLAYLIST ============ -->
+
+
+<p align="center"><i>A playlist que eu ouço enquanto estudo. Dá o play e estuda comigo!</i></p>
+
+<div align="center">
+  <a href="https://open.spotify.com/playlist/4r1FAAHQ5ze6Ci0LQNLEwc?si=45e64ef725194676">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=1DB954&height=80&text=OUVIR%20NO%20SPOTIFY&fontColor=ffffff&fontSize=24&fontAlign=50&fontAlignY=50" width="360" alt="Ouvir playlist no Spotify" />
   </a>
-  <a href="https://github.com/whoolv/NOME-DO-REPO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=whoolv&repo=NOME-DO-REPO-2&bg_color=0b1f14&title_color=6ee7b7&icon_color=34d399&text_color=d1fae5&ring_color=34d399&border_color=166534&border_radius=10&locale=pt-br" alt="Projeto 2" />
-  </a>
-</p>
-
-<br>
-
-## 🎯 Foco atual
-
-- 🔬 Estudando análise e visualização de dados
-- 🛠️ Construindo projetos fullstack (web e mobile)
-- 🎨 Design de eventos nas horas vagas
-- 🌱 Sempre aprendendo algo novo
+</div>
