@@ -1,65 +1,38 @@
-<!-- ============================================================
-  README DO PERFIL — Jordana
-  Tema: Arcane x The Last of Us | Paleta: verde escuro
-  Como usar: crie um repositório com o MESMO nome do seu usuário
-  do GitHub (ex.: github.com/seu-usuario/seu-usuario), marque
-  "Add a README" e cole este conteúdo.
-
-  ⚠️ Troque todos os SEU-USUARIO pelo seu @ do GitHub.
-  ⚠️ Troque os links dos GIFs (VI_GIF_URL / ELLIE_GIF_URL).
-============================================================ -->
-
-<!-- ============ BANNER ============ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f14,50:14532d,100:052e16&height=220&section=header&text=Jordana&fontSize=70&fontColor=a7f3d0&animation=fadeIn&fontAlignY=38&desc=Hextech%20%C3%97%20Cordyceps&descSize=20&descAlignY=60&descColor=6ee7b7" alt="Banner Jordana" />
-</div>
+<!-- Troque SEU-EMAIL, SEU-LINKEDIN e os nomes dos repositórios (NOME-DO-REPO-1/2) -->
 
 <!-- ============ DIGITANDO ============ -->
 <div align="center">
-  <a href="https://github.com/SEU-USUARIO">
+  <a href="https://github.com/whoolv">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6EE7B7&center=true&vCenter=true&width=620&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Focada+em+An%C3%A1lise+de+Dados+%F0%9F%93%8A;%22Quando+voc%C3%AA+est%C3%A1+perdido%2C+procure+o+padr%C3%A3o.%22" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
-<!-- ============ GIFS: VI E ELLIE ============ -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="VI_GIF_URL" width="300" alt="Vi - Arcane" /><br>
-        <sub><b>Vi</b> — força bruta, coração grande</sub>
-      </td>
-      <td align="center">
-        <img src="ELLIE_GIF_URL" width="300" alt="Ellie - The Last of Us" /><br>
-        <sub><b>Ellie</b> — sobrevive a qualquer bug</sub>
-      </td>
-    </tr>
-  </table>
-</div>
+<h3 align="center"><code>✧ Bem-vinda ao meu perfil! ✧</code></h3>
 
 ---
 
-<h2 align="center">🧪 Sobre mim</h2>
+<h2 align="center">👩‍💻 Sobre mim</h2>
 
 <p align="center">
-  <code>Estudante de ADS · Análise de Dados</code>
+  Me chamo <b>Jordana</b> e sou estudante de <b>Análise e Desenvolvimento de Sistemas</b>.<br>
+  Sou apaixonada por tecnologia e tenho foco em <b>análise de dados</b>: gosto de transformar<br>
+  informação bagunçada em respostas claras, dashboards e decisões melhores.
 </p>
 
-<p align="justify">
-Me chamo <b>Jordana</b> e sou estudante de <b>Análise e Desenvolvimento de Sistemas</b>.
-Tenho foco em <b>análise de dados</b>: gosto de transformar informação bagunçada em
-respostas claras, dashboards e decisões melhores. Também desenvolvo projetos
-<b>fullstack</b> para web e mobile, e trabalho com <b>design de eventos</b> como freelancer.
-Inspirada pela engenhoca de Piltover e pela sobrevivência de um mundo pós-apocalíptico,
-aprendo um pouco mais a cada commit. 🌿
+<p align="center">
+  Também desenvolvo projetos <b>fullstack</b> para web e mobile e faço <b>design de eventos</b><br>
+  como freelancer. Inspirada pela engenhoca de Piltover e pela sobrevivência de um mundo<br>
+  pós-apocalíptico, aprendo um pouco mais a cada commit.
 </p>
+
+<br>
 
 <!-- ============ BADGES ============ -->
 <div align="center">
-  <a href="https://github.com/SEU-USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-SEU--USUARIO-052e16?style=for-the-badge&logo=github&logoColor=a7f3d0" alt="GitHub" />
+  <a href="https://github.com/whoolv">
+    <img src="https://img.shields.io/badge/GitHub-whoolv-052e16?style=for-the-badge&logo=github&logoColor=a7f3d0" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-Jordana-14532d?style=for-the-badge&logo=linkedin&logoColor=a7f3d0" alt="LinkedIn" />
@@ -67,50 +40,118 @@ aprendo um pouco mais a cada commit. 🌿
   <a href="mailto:SEU-EMAIL@exemplo.com">
     <img src="https://img.shields.io/badge/E--mail-contato-166534?style=for-the-badge&logo=gmail&logoColor=a7f3d0" alt="Email" />
   </a>
-  <img src="https://img.shields.io/github/followers/SEU-USUARIO?label=Seguidores&style=for-the-badge&color=0b1f14&labelColor=14532d&logo=github&logoColor=a7f3d0" alt="Seguidores" />
-  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Visitas&color=14532d&style=for-the-badge" alt="Visitas" />
+  <br>
+  <img src="https://img.shields.io/github/followers/whoolv?label=Seguidores&style=for-the-badge&color=0b1f14&labelColor=14532d&logo=github&logoColor=a7f3d0" alt="Seguidores" />
+  <img src="https://komarev.com/ghpvc/?username=whoolv&label=Visitas&color=14532d&style=for-the-badge" alt="Visitas" />
 </div>
 
 ---
 
 <h2 align="center">⚙️ Linguagens e Tecnologias</h2>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-0b1f14?style=for-the-badge&logo=python&logoColor=a7f3d0" />
-  <img src="https://img.shields.io/badge/SQL-0b1f14?style=for-the-badge&logo=postgresql&logoColor=a7f3d0" />
-  <img src="https://img.shields.io/badge/Pandas-0b1f14?style=for-the-badge&logo=pandas&logoColor=a7f3d0" />
-  <img src="https://img.shields.io/badge/NumPy-0b1f14?style=for-the-badge&logo=numpy&logoColor=a7f3d0" />
-  <img src="https://img.shields.io/badge/Jupyter-0b1f14?style=for-the-badge&logo=jupyter&logoColor=a7f3d0" />
-  <img src="https://img.shields.io/badge/Power%20BI-0b1f14?style=for-the-badge&logo=powerbi&logoColor=a7f3d0" />
-  <img src="https://img.shields.io/badge/Excel-0b1f14?style=for-the-badge&logo=microsoftexcel&logoColor=a7f3d0" />
-  <br>
-  <img src="https://img.shields.io/badge/JavaScript-14532d?style=for-the-badge&logo=javascript&logoColor=a7f3d0" />
-  <img src="https://img.shields.io/badge/TypeScript-14532d?style=for-the-badge&logo=typescript&logoColor=a7f3d0" />
-  <img src="https://img.shields.io/badge/Node.js-14532d?style=for-the-badge&logo=nodedotjs&logoColor=a7f3d0" />
-  <img src="https://img.shields.io/badge/Express-14532d?style=for-the-badge&logo=express&logoColor=a7f3d0" />
-  <img src="https://img.shields.io/badge/Vue.js-14532d?style=for-the-badge&logo=vuedotjs&logoColor=a7f3d0" />
-  <img src="https://img.shields.io/badge/Capacitor-14532d?style=for-the-badge&logo=capacitor&logoColor=a7f3d0" />
-  <img src="https://img.shields.io/badge/PostgreSQL-14532d?style=for-the-badge&logo=postgresql&logoColor=a7f3d0" />
-  <img src="https://img.shields.io/badge/HTML5-14532d?style=for-the-badge&logo=html5&logoColor=a7f3d0" />
-  <img src="https://img.shields.io/badge/CSS3-14532d?style=for-the-badge&logo=css3&logoColor=a7f3d0" />
-  <img src="https://img.shields.io/badge/Git-14532d?style=for-the-badge&logo=git&logoColor=a7f3d0" />
-</div>
+<h4 align="center">📊 Análise de dados</h4>
+
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://api.iconify.design/logos:python.svg" width="48" height="48" alt="Python" /><br>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://api.iconify.design/logos:postgresql.svg" width="48" height="48" alt="SQL" /><br>
+      <sub><b>SQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://api.iconify.design/logos:pandas-icon.svg" width="48" height="48" alt="Pandas" /><br>
+      <sub><b>Pandas</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://api.iconify.design/logos:numpy-icon.svg" width="48" height="48" alt="NumPy" /><br>
+      <sub><b>NumPy</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://api.iconify.design/logos:jupyter.svg" width="48" height="48" alt="Jupyter" /><br>
+      <sub><b>Jupyter</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://api.iconify.design/logos:microsoft-power-bi.svg" width="48" height="48" alt="Power BI" /><br>
+      <sub><b>Power BI</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://api.iconify.design/logos:microsoft-excel.svg" width="48" height="48" alt="Excel" /><br>
+      <sub><b>Excel</b></sub>
+    </td>
+  </tr>
+</table>
+
+<h4 align="center">💻 Desenvolvimento web e mobile</h4>
+
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://api.iconify.design/logos:javascript.svg" width="48" height="48" alt="JavaScript" /><br>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://api.iconify.design/logos:nodejs-icon.svg" width="48" height="48" alt="Node.js" /><br>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://api.iconify.design/logos:capacitorjs-icon.svg" width="48" height="48" alt="Capacitor" /><br>
+      <sub><b>Capacitor</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://api.iconify.design/logos:postgresql.svg" width="48" height="48" alt="PostgreSQL" /><br>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://api.iconify.design/logos:html-5.svg" width="48" height="48" alt="HTML5" /><br>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://api.iconify.design/logos:css-3.svg" width="48" height="48" alt="CSS3" /><br>
+      <sub><b>CSS3</b></sub>
+    </td>
+  </tr>
+</table>
+
+<h4 align="center">🧰 Ferramentas</h4>
+
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://api.iconify.design/logos:git-icon.svg" width="48" height="48" alt="Git" /><br>
+      <sub><b>Git</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <h2 align="center">📊 Estatísticas</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=0b1f14&title_color=6ee7b7&icon_color=34d399&text_color=d1fae5&ring_color=34d399&count_private=true" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=0b1f14&title_color=6ee7b7&text_color=d1fae5" alt="Top linguagens" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=whoolv&show_icons=true&hide_border=true&bg_color=0b1f14&title_color=6ee7b7&icon_color=34d399&text_color=d1fae5&ring_color=34d399&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoolv&layout=compact&hide_border=true&bg_color=0b1f14&title_color=6ee7b7&text_color=d1fae5" alt="Linguagens mais usadas" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU-USUARIO&hide_border=true&background=0b1f14&stroke=14532d&ring=34d399&fire=6ee7b7&currStreakNum=d1fae5&sideNums=d1fae5&currStreakLabel=6ee7b7&sideLabels=6ee7b7&dates=86efac" alt="Streak" />
-</div>
+<br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=0b1f14&color=6ee7b7&line=34d399&point=d1fae5&area=true&area_color=14532d&hide_border=true" alt="Gráfico de atividade" />
+  <img src="https://streak-stats.demolab.com?user=whoolv&hide_border=true&background=0b1f14&stroke=14532d&ring=34d399&fire=6ee7b7&currStreakNum=d1fae5&sideNums=d1fae5&currStreakLabel=6ee7b7&sideLabels=6ee7b7&dates=86efac" alt="Sequência de contribuições" />
+</div>
+
+---
+
+<h2 align="center">🚀 Projetos em destaque</h2>
+
+<div align="center">
+  <a href="https://github.com/whoolv/NOME-DO-REPO-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=whoolv&repo=NOME-DO-REPO-1&hide_border=true&bg_color=0b1f14&title_color=6ee7b7&icon_color=34d399&text_color=d1fae5" alt="Projeto 1" />
+  </a>
+  <a href="https://github.com/whoolv/NOME-DO-REPO-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=whoolv&repo=NOME-DO-REPO-2&hide_border=true&bg_color=0b1f14&title_color=6ee7b7&icon_color=34d399&text_color=d1fae5" alt="Projeto 2" />
+  </a>
 </div>
 
 ---
@@ -123,10 +164,3 @@ aprendo um pouco mais a cada commit. 🌿
   🎨 Design de eventos nas horas vagas<br>
   🌱 Sempre aprendendo algo novo
 </p>
-
----
-
-<!-- ============ RODAPÉ ============ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,50:14532d,100:0b1f14&height=120&section=footer" alt="Rodapé" />
-</div>
