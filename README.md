@@ -47,120 +47,55 @@
 
 ---
 
-<h2 align="center">⚙️ Linguagens e Tecnologias</h2>
+## ⚙️ Linguagens e Tecnologias
 
-<h4 align="center">📊 Análise de dados</h4>
-
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <img src="https://api.iconify.design/logos:python.svg" width="48" height="48" alt="Python" /><br>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://api.iconify.design/logos:postgresql.svg" width="48" height="48" alt="SQL" /><br>
-      <sub><b>SQL</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://api.iconify.design/logos:pandas-icon.svg" width="48" height="48" alt="Pandas" /><br>
-      <sub><b>Pandas</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://api.iconify.design/logos:numpy-icon.svg" width="48" height="48" alt="NumPy" /><br>
-      <sub><b>NumPy</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://api.iconify.design/logos:jupyter.svg" width="48" height="48" alt="Jupyter" /><br>
-      <sub><b>Jupyter</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://api.iconify.design/logos:microsoft-power-bi.svg" width="48" height="48" alt="Power BI" /><br>
-      <sub><b>Power BI</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://api.iconify.design/logos:microsoft-excel.svg" width="48" height="48" alt="Excel" /><br>
-      <sub><b>Excel</b></sub>
-    </td>
-  </tr>
-</table>
-
-<h4 align="center">💻 Desenvolvimento web e mobile</h4>
-
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <img src="https://api.iconify.design/logos:javascript.svg" width="48" height="48" alt="JavaScript" /><br>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://api.iconify.design/logos:nodejs-icon.svg" width="48" height="48" alt="Node.js" /><br>
-      <sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://api.iconify.design/logos:capacitorjs-icon.svg" width="48" height="48" alt="Capacitor" /><br>
-      <sub><b>Capacitor</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://api.iconify.design/logos:postgresql.svg" width="48" height="48" alt="PostgreSQL" /><br>
-      <sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://api.iconify.design/logos:html-5.svg" width="48" height="48" alt="HTML5" /><br>
-      <sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://api.iconify.design/logos:css-3.svg" width="48" height="48" alt="CSS3" /><br>
-      <sub><b>CSS3</b></sub>
-    </td>
-  </tr>
-</table>
-
-<h4 align="center">🧰 Ferramentas</h4>
-
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <img src="https://api.iconify.design/logos:git-icon.svg" width="48" height="48" alt="Git" /><br>
-      <sub><b>Git</b></sub>
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">📊 Estatísticas</h2>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=whoolv&show_icons=true&hide_border=true&bg_color=0b1f14&title_color=6ee7b7&icon_color=34d399&text_color=d1fae5&ring_color=34d399&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoolv&layout=compact&hide_border=true&bg_color=0b1f14&title_color=6ee7b7&text_color=d1fae5" alt="Linguagens mais usadas" />
-</div>
+<p>
+  <img src="https://api.iconify.design/logos:python.svg" width="48" height="48" alt="Python" title="Python" />
+  <img src="https://api.iconify.design/logos:postgresql.svg" width="48" height="48" alt="SQL" title="SQL" />
+  <img src="https://api.iconify.design/logos:pandas-icon.svg" width="48" height="48" alt="Pandas" title="Pandas" />
+  <img src="https://api.iconify.design/devicon:numpy.svg" width="48" height="48" alt="NumPy" title="NumPy" />
+  <img src="https://api.iconify.design/logos:jupyter.svg" width="48" height="48" alt="Jupyter" title="Jupyter" />
+  <img src="https://api.iconify.design/logos:microsoft-power-bi.svg" width="48" height="48" alt="Power BI" title="Power BI" />
+  <img src="https://api.iconify.design/vscode-icons:file-type-excel.svg" width="48" height="48" alt="Excel" title="Excel" />
+  <img src="https://api.iconify.design/logos:javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />
+  <img src="https://api.iconify.design/logos:nodejs-icon.svg" width="48" height="48" alt="Node.js" title="Node.js" />
+  <img src="https://api.iconify.design/logos:capacitorjs-icon.svg" width="48" height="48" alt="Capacitor" title="Capacitor" />
+  <img src="https://api.iconify.design/logos:html-5.svg" width="48" height="48" alt="HTML5" title="HTML5" />
+  <img src="https://api.iconify.design/logos:css-3.svg" width="48" height="48" alt="CSS3" title="CSS3" />
+  <img src="https://api.iconify.design/logos:git-icon.svg" width="48" height="48" alt="Git" title="Git" />
+</p>
 
 <br>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=whoolv&hide_border=true&background=0b1f14&stroke=14532d&ring=34d399&fire=6ee7b7&currStreakNum=d1fae5&sideNums=d1fae5&currStreakLabel=6ee7b7&sideLabels=6ee7b7&dates=86efac" alt="Sequência de contribuições" />
-</div>
+## 📊 Estatísticas
 
----
+<p>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=whoolv&show_icons=true&count_private=true&custom_title=Estat%C3%ADsticas%20do%20GitHub%20de%20Jordana&bg_color=0b1f14&title_color=6ee7b7&icon_color=34d399&text_color=d1fae5&ring_color=34d399&border_color=166534&border_radius=10&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoolv&layout=compact&langs_count=8&custom_title=Tecnologias&bg_color=0b1f14&title_color=6ee7b7&icon_color=34d399&text_color=d1fae5&ring_color=34d399&border_color=166534&border_radius=10&locale=pt-br" alt="Tecnologias mais usadas" />
+</p>
 
-<h2 align="center">🚀 Projetos em destaque</h2>
+<p>
+  <img src="https://streak-stats.demolab.com?user=whoolv&locale=pt_BR&border_radius=10&background=0b1f14&stroke=166534&ring=34d399&fire=6ee7b7&currStreakNum=d1fae5&sideNums=d1fae5&currStreakLabel=6ee7b7&sideLabels=6ee7b7&dates=86efac&hide_border=false&card_border=166534" alt="Sequência de contribuições" />
+</p>
 
-<div align="center">
+<br>
+
+## 🚀 Projetos em destaque
+
+<p>
   <a href="https://github.com/whoolv/NOME-DO-REPO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=whoolv&repo=NOME-DO-REPO-1&hide_border=true&bg_color=0b1f14&title_color=6ee7b7&icon_color=34d399&text_color=d1fae5" alt="Projeto 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=whoolv&repo=NOME-DO-REPO-1&bg_color=0b1f14&title_color=6ee7b7&icon_color=34d399&text_color=d1fae5&ring_color=34d399&border_color=166534&border_radius=10&locale=pt-br" alt="Projeto 1" />
   </a>
   <a href="https://github.com/whoolv/NOME-DO-REPO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=whoolv&repo=NOME-DO-REPO-2&hide_border=true&bg_color=0b1f14&title_color=6ee7b7&icon_color=34d399&text_color=d1fae5" alt="Projeto 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=whoolv&repo=NOME-DO-REPO-2&bg_color=0b1f14&title_color=6ee7b7&icon_color=34d399&text_color=d1fae5&ring_color=34d399&border_color=166534&border_radius=10&locale=pt-br" alt="Projeto 2" />
   </a>
-</div>
-
----
-
-<h2 align="center">🎯 Foco atual</h2>
-
-<p align="center">
-  🔬 Estudando análise e visualização de dados<br>
-  🛠️ Construindo projetos fullstack (web e mobile)<br>
-  🎨 Design de eventos nas horas vagas<br>
-  🌱 Sempre aprendendo algo novo
 </p>
+
+<br>
+
+## 🎯 Foco atual
+
+- 🔬 Estudando análise e visualização de dados
+- 🛠️ Construindo projetos fullstack (web e mobile)
+- 🎨 Design de eventos nas horas vagas
+- 🌱 Sempre aprendendo algo novo
