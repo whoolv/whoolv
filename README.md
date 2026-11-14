@@ -76,18 +76,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1e3a5f&height=2" width="100%" alt="" />
 
 <br>
-
-<!-- ============ HABILIDADES ============ -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoolv&layout=compact&hide_title=true&langs_count=8&card_width=500&bg_color=0a1628&text_color=bfdbfe&border_color=1e3a5f" alt="Linguagens mais usadas" />
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1e3a5f&height=2" width="100%" alt="" />
-
-<br>
-
 <!-- ============ PLAYLIST ============ -->
 <p align="center"><i>A playlist que eu ouço enquanto estudo. Dá o play e estuda comigo!</i></p>
 
