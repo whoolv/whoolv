@@ -76,11 +76,4 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1e3a5f&height=2" width="100%" alt="" />
 
 <br>
-<!-- ============ PLAYLIST ============ -->
-<p align="center"><i>A playlist que eu ouço enquanto estudo. Dá o play e estuda comigo!</i></p>
 
-<div align="center">
-  <a href="https://open.spotify.com/playlist/4r1FAAHQ5ze6Ci0LQNLEwc?si=45e64ef725194676">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1DB954&height=80&text=OUVIR%20NO%20SPOTIFY&fontColor=ffffff&fontSize=24&fontAlign=50&fontAlignY=50" width="360" alt="Ouvir playlist no Spotify" />
-</a>
-</div>
