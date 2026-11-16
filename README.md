@@ -1,79 +1,35 @@
-<!-- ============ HERO ============ -->
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YjF2YXBoZmRvOTN5cXZwMnIweXQ0Mm1tbTB1NnZ3M204djQ3enBkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kakbWuHyGHXTH0Gzul/giphy.gif" width="50%" alt="Animação de tecnologia" />
-
-<img src="https://img.shields.io/badge/%E2%97%8F%20SOU%20ESTUDANTE%20E%20DESENVOLVEDORA-0a1a33?style=for-the-badge&labelColor=0a1a33&color=1e3a5f" alt="Tag" />
-
-<h3>✧ Dados, análises e insights ✧</h3>
-
-<p align="">
-  Graduada em Tecnologia da Informação e estudante de Análise e Desenvolvimento de Sistemas no 4º período pela UNAMA. Gosto de transformar dados e ideias em soluções digitais.
-</p>
-
-<a href="https://github.com/whoolv?tab=repositories">
-  <img src="https://img.shields.io/badge/Ver%20meus%20projetos-%E2%86%97-1e3a6e?style=for-the-badge&logoColor=bfdbfe" alt="Ver projetos" />
-</a>
-<a href="mailto:jordanadeolv07@gmail.com">
-  <img src="https://img.shields.io/badge/Falar%20comigo-E--mail-0a1a33?style=for-the-badge&logo=gmail&logoColor=bfdbfe" alt="Enviar e-mail" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/whoolv">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=93c5fd&vCenter=true&width=420&lines=Welcome+to+my+GitHub;Analysis+%26+Data;Fullstack+Web+%26+Mobile" alt="Typing SVG" />
-</a>
-
-<br clear="right" />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1e3a5f&height=2" width="100%" alt="" />
-
-<br>
-
-<!-- ============ SOBRE MIM ============ -->
 <div align="center">
+  <a href="https://github.com/whoolv">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1200&amp;color=93C5FD&amp;center=true&amp;vCenter=true&amp;width=524&amp;lines=%E2%8A%B9+Welcome+to+my+GitHub!+%E2%8A%B9;Dados%2C+an%C3%A1lises+e+insights;Fullstack+Web+%26+Mobile" alt="Welcome to my GitHub! Dados, análises e insights. Fullstack Web &amp; Mobile." />
+  </a>
+</div>Me chamo Jordana, sou graduada em Tecnologia da Informação e curso o 4º período de Análise e Desenvolvimento de Sistemas na UNAMA. Gosto de transformar dados e ideias em soluções digitais.
 
-<img src="https://img.shields.io/badge/%E2%97%8F%20SOBRE%20MIM-0a1a33?style=for-the-badge&labelColor=0a1a33&color=1e3a5f" alt="Sobre mim" />
+Desenvolvo projetos fullstack para web e mobile e estudo análise de dados e banco de dados, áreas em que quero me aprofundar com uma pós-graduação. Nas horas vagas, trabalho em projetos de design de eventos.
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YjF2YXBoZmRvOTN5cXZwMnIweXQ0Mm1tbTB1NnZ3M204djQ3enBkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kakbWuHyGHXTH0Gzul/giphy.gif" width="50%" alt="Animação de tecnologia" /><h3 align="left">Onde me encontrar</h3>
 
-<p align="justify">
-  Me interesso por <b>tecnologia</b>, <b>dados</b> e <b>criatividade</b>. Desenvolvo projetos <b>fullstack</b> para web e mobile, estudo <b>análise de dados</b> e <b>banco de dados</b> com planos de me aprofundar em uma pós-graduação na área e, nas horas vagas, crio <b>design de eventos</b>.
-</p>
+<h3 align="left">Minha stack ~</h3><p align="left">
+  <img src="https://api.iconify.design/logos:python.svg" alt="Python" title="Python" width="34" height="34" />
+  <img src="https://api.iconify.design/logos:pandas-icon.svg" alt="Pandas" title="Pandas" width="34" height="34" />
+  <img src="https://api.iconify.design/devicon:numpy.svg" alt="NumPy" title="NumPy" width="34" height="34" />
+  <img src="https://api.iconify.design/logos:jupyter.svg" alt="Jupyter" title="Jupyter" width="34" height="34" />
+  <img src="https://api.iconify.design/logos:microsoft-power-bi.svg" alt="Power BI" title="Power BI" width="34" height="34" />
+  <img src="https://api.iconify.design/vscode-icons:file-type-excel.svg" alt="Excel" title="Excel" width="34" height="34" />
+  <br />
+  <img src="https://api.iconify.design/logos:javascript.svg" alt="JavaScript" title="JavaScript" width="34" height="34" />
+  <img src="https://api.iconify.design/logos:nodejs-icon.svg" alt="Node.js" title="Node.js" width="34" height="34" />
+  <img src="https://api.iconify.design/logos:capacitorjs-icon.svg" alt="Capacitor" title="Capacitor" width="34" height="34" />
+  <img src="https://api.iconify.design/logos:html-5.svg" alt="HTML5" title="HTML5" width="34" height="34" />
+  <img src="https://api.iconify.design/logos:css-3.svg" alt="CSS3" title="CSS3" width="34" height="34" />
+  <img src="https://api.iconify.design/logos:git-icon.svg" alt="Git" title="Git" width="34" height="34" />
+</p><br clear="all" /><h3 align="left">GitHub Stats</h3><p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=whoolv&amp;show_icons=true&amp;locale=pt-br&amp;hide=contribs&amp;bg_color=0a1a33&amp;title_color=93c5fd&amp;text_color=f1f1f1&amp;icon_color=bfdbfe&amp;border_color=1e3a5f&amp;ring_color=93c5fd&amp;custom_title=Minhas%20estat%C3%ADsticas%20no%20GitHub" alt="Estatísticas do GitHub de Jordana" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoolv&amp;layout=compact&amp;locale=pt-br&amp;langs_count=8&amp;bg_color=0a1a33&amp;title_color=93c5fd&amp;text_color=f1f1f1&amp;border_color=1e3a5f&amp;custom_title=Linguagens%20mais%20usadas" alt="Linguagens mais usadas nos repositórios de Jordana" height="175" />
+</p><!--
+Cobrinha de contribuições. Remova este comentário quando os arquivos SVG
+estiverem publicados na branch output do repositório whoolv/whoolv.
 
-<img src="https://img.shields.io/badge/ADS-4%C2%BA%20per%C3%ADodo-1e3a6e?style=for-the-badge&labelColor=0a1a33" alt="4º período" />
-<img src="https://img.shields.io/badge/Institui%C3%A7%C3%A3o-UNAMA-1e3a6e?style=for-the-badge&labelColor=0a1a33" alt="UNAMA" />
-<br>
-<img src="https://img.shields.io/badge/Projetos-Web%20%2B%20Mobile-1e3a6e?style=for-the-badge&labelColor=0a1a33" alt="Web + Mobile" />
-<img src="https://img.shields.io/badge/Foco-Dados-1e3a6e?style=for-the-badge&labelColor=0a1a33" alt="Dados" />
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1e3a5f&height=2" width="100%" alt="" />
-
-<br>
-
-<!-- ============ TECNOLOGIAS ============ -->
-<p align="center"><sub><b>TECNOLOGIAS COM AS QUAIS EU TRABALHO</b></sub></p>
-
-<div align="center">
-  <img src="https://api.iconify.design/logos:python.svg" width="44" height="44" alt="Python" title="Python" />
-  <img src="https://api.iconify.design/logos:pandas-icon.svg" width="44" height="44" alt="Pandas" title="Pandas" />
-  <img src="https://api.iconify.design/devicon:numpy.svg" width="44" height="44" alt="NumPy" title="NumPy" />
-  <img src="https://api.iconify.design/logos:jupyter.svg" width="44" height="44" alt="Jupyter" title="Jupyter" />
-  <img src="https://api.iconify.design/logos:microsoft-power-bi.svg" width="44" height="44" alt="Power BI" title="Power BI" />
-  <img src="https://api.iconify.design/vscode-icons:file-type-excel.svg" width="44" height="44" alt="Excel" title="Excel" />
-  <img src="https://api.iconify.design/logos:javascript.svg" width="44" height="44" alt="JavaScript" title="JavaScript" />
-  <img src="https://api.iconify.design/logos:nodejs-icon.svg" width="44" height="44" alt="Node.js" title="Node.js" />
-  <img src="https://api.iconify.design/logos:capacitorjs-icon.svg" width="44" height="44" alt="Capacitor" title="Capacitor" />
-  <img src="https://api.iconify.design/logos:html-5.svg" width="44" height="44" alt="HTML5" title="HTML5" />
-  <img src="https://api.iconify.design/logos:css-3.svg" width="44" height="44" alt="CSS3" title="CSS3" />
-  <img src="https://api.iconify.design/logos:git-icon.svg" width="44" height="44" alt="Git" title="Git" />
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1e3a5f&height=2" width="100%" alt="" />
-
-<br>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whoolv/whoolv/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/whoolv/whoolv/output/github-contribution-grid-snake.svg" alt="Cobrinha animada de contribuições no GitHub" />
+</picture>
+-->
