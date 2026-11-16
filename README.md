@@ -1,10 +1,50 @@
+<div align="center">
+<!--wrap-->
+<h1 align="center">Oi 👋 Eu sou a Jordana</h1>
 
-<div align="center"> <a href="https://github.com/whoolv"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1200&amp;color=93C5FD&amp;center=true&amp;vCenter=true&amp;width=524&amp;lines=%E2%8A%B9+Welcome+to+my+GitHub!+%E2%8A%B9;Dados%2C+an%C3%A1lises+e+insights;Fullstack+Web+%26+Mobile" alt="Welcome to my GitHub! Dados, análises e insights. Fullstack Web &amp; Mobile." /> </a> </div>
+<div align="center">
+  <a href="https://github.com/whoolv">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=93C5FD&center=true&vCenter=true&width=524&lines=%E2%8A%B9+Welcome+to+my+GitHub!+%E2%8A%B9;Dados%2C+an%C3%A1lises+e+insights;Fullstack+Web+%26+Mobile" alt="Welcome to my GitHub! Dados, análises e insights. Fullstack Web & Mobile." />
+  </a>
+</div>
 
-Me chamo Jordana, sou graduada em Tecnologia da Informação e curso o 4º período de Análise e Desenvolvimento de Sistemas na UNAMA. Gosto de transformar dados e ideias em soluções digitais.
+<br />
 
+<p align="">
+Graduada em Tecnologia da Informação e cursando o 4º período de Análise e Desenvolvimento de Sistemas na UNAMA. Gosto de transformar dados e ideias em soluções digitais.<br />
 Desenvolvo projetos fullstack para web e mobile e estudo análise de dados e banco de dados, áreas em que quero me aprofundar com uma pós-graduação. Nas horas vagas, trabalho em projetos de design de eventos.
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YjF2YXBoZmRvOTN5cXZwMnIweXQ0Mm1tbTB1NnZ3M204djQ3enBkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kakbWuHyGHXTH0Gzul/giphy.gif" width="50%" alt="Animação de tecnologia" /><h3 align="left">Onde me encontrar</h3>
+</p>
 
+<h2 align="center">🔗 Conecte-se comigo</h2>
+<p align="center">
+  <a href="TODO-LINK-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0a1a33?style=for-the-badge&logo=linkedin&logoColor=93c5fd" alt="LinkedIn" /></a>
+  <a href="mailto:TODO-EMAIL"><img src="https://img.shields.io/badge/E--MAIL-0a1a33?style=for-the-badge&logo=gmail&logoColor=93c5fd" alt="E-mail" /></a>
+  <a href="TODO-LINK-PORTFOLIO"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-0a1a33?style=for-the-badge&logo=googlechrome&logoColor=93c5fd" alt="Portfólio" /></a>
+</p>
 
-<h3 align="left">Minha stack ~</h3><p align="left"> <img src="https://api.iconify.design/logos:python.svg" alt="Python" title="Python" width="34" height="34" /> <img src="https://api.iconify.design/logos:pandas-icon.svg" alt="Pandas" title="Pandas" width="34" height="34" /> <img src="https://api.iconify.design/devicon:numpy.svg" alt="NumPy" title="NumPy" width="34" height="34" /> <img src="https://api.iconify.design/logos:jupyter.svg" alt="Jupyter" title="Jupyter" width="34" height="34" /> <img src="https://api.iconify.design/logos:microsoft-power-bi.svg" alt="Power BI" title="Power BI" width="34" height="34" /> <img src="https://api.iconify.design/vscode-icons:file-type-excel.svg" alt="Excel" title="Excel" width="34" height="34" /> <br /> <img src="https://api.iconify.design/logos:javascript.svg" alt="JavaScript" title="JavaScript" width="34" height="34" /> <img src="https://api.iconify.design/logos:nodejs-icon.svg" alt="Node.js" title="Node.js" width="34" height="34" /> <img src="https://api.iconify.design/logos:capacitorjs-icon.svg" alt="Capacitor" title="Capacitor" width="34" height="34" /> <img src="https://api.iconify.design/logos:html-5.svg" alt="HTML5" title="HTML5" width="34" height="34" /> <img src="https://api.iconify.design/logos:css-3.svg" alt="CSS3" title="CSS3" width="34" height="34" /> <img src="https://api.iconify.design/logos:git-icon.svg" alt="Git" title="Git" width="34" height="34" /> </p><br clear="all" /><h3 align="left">GitHub Stats</h3><p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=whoolv&amp;show_icons=true&amp;locale=pt-br&amp;hide=contribs&amp;bg_color=0a1a33&amp;title_color=93c5fd&amp;text_color=f1f1f1&amp;icon_color=bfdbfe&amp;border_color=1e3a5f&amp;ring_color=93c5fd&amp;custom_title=Minhas%20estat%C3%ADsticas%20no%20GitHub" alt="Estatísticas do GitHub de Jordana" height="175" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoolv&amp;layout=compact&amp;locale=pt-br&amp;langs_count=8&amp;bg_color=0a1a33&amp;title_color=93c5fd&amp;text_color=f1f1f1&amp;border_color=1e3a5f&amp;custom_title=Linguagens%20mais%20usadas" alt="Linguagens mais usadas nos repositórios de Jordana" height="175" /> </p><picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whoolv/whoolv/snake-output/github-contribution-grid-snake-dark.svg" /> <img src="https://raw.githubusercontent.com/whoolv/whoolv/snake-output/github-contribution-grid-snake.svg" alt="Cobrinha animada de contribuições no GitHub" /> </picture> 
+<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pandas,numpy,powerbi,postgres,supabase,mongodb,js,ts,nodejs,express,php,django,html,css,git,github,vscode&perline=9" alt="Tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/CAPACITOR-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" alt="Capacitor" />
+</p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauarodrigues-zip/kauarodrigues-zip/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauarodrigues-zip/kauarodrigues-zip/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kauarodrigues-zip/kauarodrigues-zip/output/github-contribution-grid-snake.svg">
+</picture>
