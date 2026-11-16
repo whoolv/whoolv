@@ -2,12 +2,26 @@
   <a href="https://github.com/whoolv">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1200&amp;color=93C5FD&amp;center=true&amp;vCenter=true&amp;width=524&amp;lines=%E2%8A%B9+Welcome+to+my+GitHub!+%E2%8A%B9;Dados%2C+an%C3%A1lises+e+insights;Fullstack+Web+%26+Mobile" alt="Welcome to my GitHub! Dados, análises e insights. Fullstack Web &amp; Mobile." />
   </a>
-</div>Me chamo Jordana, sou graduada em Tecnologia da Informação e curso o 4º período de Análise e Desenvolvimento de Sistemas na UNAMA. Gosto de transformar dados e ideias em soluções digitais.
+</div>
+
+---
+
+Me chamo **Jordana**, sou graduada em Tecnologia da Informação e curso o 4º período de Análise e Desenvolvimento de Sistemas na UNAMA. Gosto de transformar dados e ideias em soluções digitais.
 
 Desenvolvo projetos fullstack para web e mobile e estudo análise de dados e banco de dados, áreas em que quero me aprofundar com uma pós-graduação. Nas horas vagas, trabalho em projetos de design de eventos.
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YjF2YXBoZmRvOTN5cXZwMnIweXQ0Mm1tbTB1NnZ3M204djQ3enBkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kakbWuHyGHXTH0Gzul/giphy.gif" width="50%" alt="Animação de tecnologia" /><h3 align="left">Onde me encontrar</h3>
 
-<h3 align="left">Minha stack ~</h3><p align="left">
+---
+
+<img align="right" height="230" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YjF2YXBoZmRvOTN5cXZwMnIweXQ0Mm1tbTB1NnZ3M204djQ3enBkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kakbWuHyGHXTH0Gzul/giphy.gif" alt="Animação de tecnologia" />
+
+<h3 align="left">Onde me encontrar</h3>
+
+[![E-mail](https://img.shields.io/badge/-E--mail-0a1a33?style=for-the-badge&logo=gmail&logoColor=bfdbfe)](mailto:jordanadeolv07@gmail.com)
+[![Projetos no GitHub](https://img.shields.io/badge/-Meus%20projetos-1e3a6e?style=for-the-badge&logo=github&logoColor=bfdbfe)](https://github.com/whoolv?tab=repositories)
+
+<h3 align="left">Minha stack ~</h3>
+
+<p align="left">
   <img src="https://api.iconify.design/logos:python.svg" alt="Python" title="Python" width="34" height="34" />
   <img src="https://api.iconify.design/logos:pandas-icon.svg" alt="Pandas" title="Pandas" width="34" height="34" />
   <img src="https://api.iconify.design/devicon:numpy.svg" alt="NumPy" title="NumPy" width="34" height="34" />
@@ -21,15 +35,18 @@ Desenvolvo projetos fullstack para web e mobile e estudo análise de dados e ban
   <img src="https://api.iconify.design/logos:html-5.svg" alt="HTML5" title="HTML5" width="34" height="34" />
   <img src="https://api.iconify.design/logos:css-3.svg" alt="CSS3" title="CSS3" width="34" height="34" />
   <img src="https://api.iconify.design/logos:git-icon.svg" alt="Git" title="Git" width="34" height="34" />
-</p><br clear="all" /><h3 align="left">GitHub Stats</h3><p align="left">
+</p>
+
+<br clear="all" />
+
+<h3 align="left">GitHub Stats</h3>
+
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=whoolv&amp;show_icons=true&amp;locale=pt-br&amp;hide=contribs&amp;bg_color=0a1a33&amp;title_color=93c5fd&amp;text_color=f1f1f1&amp;icon_color=bfdbfe&amp;border_color=1e3a5f&amp;ring_color=93c5fd&amp;custom_title=Minhas%20estat%C3%ADsticas%20no%20GitHub" alt="Estatísticas do GitHub de Jordana" height="175" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoolv&amp;layout=compact&amp;locale=pt-br&amp;langs_count=8&amp;bg_color=0a1a33&amp;title_color=93c5fd&amp;text_color=f1f1f1&amp;border_color=1e3a5f&amp;custom_title=Linguagens%20mais%20usadas" alt="Linguagens mais usadas nos repositórios de Jordana" height="175" />
-</p><!--
-Cobrinha de contribuições. Remova este comentário quando os arquivos SVG
-estiverem publicados na branch output do repositório whoolv/whoolv.
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whoolv/whoolv/output/github-contribution-grid-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/whoolv/whoolv/output/github-contribution-grid-snake.svg" alt="Cobrinha animada de contribuições no GitHub" />
 </picture>
--->
