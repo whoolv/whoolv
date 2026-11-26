@@ -1,8 +1,8 @@
-<img src="assets/banner.svg" width="100%" alt="Arte abstrata de seda verde e creme com uma estrela brilhante" />
+<img src="assets/banner.svg" width="100%" alt="Arte abstrata de seda grafite e creme com uma estrela brilhante" />
 
 <p align="center">
-  <a href="mailto:jordanadeolv07@gmail.com"><img src="https://img.shields.io/badge/GMAIL-02110c?style=for-the-badge&logo=gmail&logoColor=f3ebd6" alt="Gmail" /></a>
-  <a href="https://github.com/whoolv?tab=repositories"><img src="https://img.shields.io/badge/REPOSIT%C3%93RIOS-02110c?style=for-the-badge&logo=github&logoColor=f3ebd6" alt="Repositórios" /></a>
+  <a href="mailto:jordanadeolv07@gmail.com"><img src="https://img.shields.io/badge/GMAIL-141414?style=for-the-badge&logo=gmail&logoColor=f2dfb7" alt="Gmail" /></a>
+  <a href="https://github.com/whoolv?tab=repositories"><img src="https://img.shields.io/badge/REPOSIT%C3%93RIOS-141414?style=for-the-badge&logo=github&logoColor=f2dfb7" alt="Repositórios" /></a>
 </p>
 
 <details open>
@@ -23,7 +23,7 @@ Nas horas vagas, trabalho com design de eventos.
 
 </td>
 <td width="35%" align="center" valign="middle">
-<img src="assets/planeta.svg" width="220" alt="Planeta verde com anel creme" />
+<img src="assets/planeta.svg" width="220" alt="Planeta grafite com anel creme" />
 </td>
 </tr>
 </table>

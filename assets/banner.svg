@@ -1,22 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="Arte abstrata de seda verde e creme com uma estrela brilhante">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="Arte abstrata de seda grafite e creme com uma estrela brilhante">
   <defs>
     <clipPath id="borda"><rect width="1280" height="420" rx="20"/></clipPath>
     <radialGradient id="fundo" cx="55%" cy="45%" r="75%">
-      <stop offset="0" stop-color="#0b2419"/>
-      <stop offset="1" stop-color="#02110c"/>
+      <stop offset="0" stop-color="#1f1d1a"/>
+      <stop offset="1" stop-color="#141414"/>
     </radialGradient>
     <linearGradient id="dobra" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#02110c"/>
-      <stop offset="0.35" stop-color="#1a422f"/>
-      <stop offset="0.5" stop-color="#f3ebd6"/>
-      <stop offset="0.62" stop-color="#1a422f"/>
-      <stop offset="1" stop-color="#02110c"/>
+      <stop offset="0" stop-color="#141414"/>
+      <stop offset="0.35" stop-color="#3a352c"/>
+      <stop offset="0.5" stop-color="#f2dfb7"/>
+      <stop offset="0.62" stop-color="#3a352c"/>
+      <stop offset="1" stop-color="#141414"/>
     </linearGradient>
     <linearGradient id="dobraVerde" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#02110c"/>
-      <stop offset="0.45" stop-color="#2a5a41"/>
-      <stop offset="0.55" stop-color="#1a422f"/>
-      <stop offset="1" stop-color="#02110c"/>
+      <stop offset="0" stop-color="#141414"/>
+      <stop offset="0.45" stop-color="#4a4337"/>
+      <stop offset="0.55" stop-color="#3a352c"/>
+      <stop offset="1" stop-color="#141414"/>
     </linearGradient>
     <linearGradient id="some" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#fff" stop-opacity="0"/>
@@ -28,9 +28,9 @@
     <filter id="suave" x="-10%" y="-30%" width="120%" height="160%"><feGaussianBlur stdDeviation="6"/></filter>
     <filter id="nevoa" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="22"/></filter>
     <radialGradient id="luz">
-      <stop offset="0" stop-color="#f3ebd6" stop-opacity="0.9"/>
-      <stop offset="0.3" stop-color="#f3ebd6" stop-opacity="0.25"/>
-      <stop offset="1" stop-color="#f3ebd6" stop-opacity="0"/>
+      <stop offset="0" stop-color="#f2dfb7" stop-opacity="0.9"/>
+      <stop offset="0.3" stop-color="#f2dfb7" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#f2dfb7" stop-opacity="0"/>
     </radialGradient>
     <style>
       .flui1 { animation: f1 16s ease-in-out infinite alternate; }
@@ -49,7 +49,7 @@
     <rect width="1280" height="420" fill="url(#fundo)"/>
 
     <!-- estrelas pequenas -->
-    <g fill="#f3ebd6">
+    <g fill="#f2dfb7">
       <circle class="pisca" cx="120" cy="60" r="1.4"/><circle class="pisca2" cx="260" cy="350" r="1.2"/>
       <circle class="pisca" cx="410" cy="40" r="1"/><circle class="pisca2" cx="560" cy="380" r="1.4"/>
       <circle class="pisca2" cx="700" cy="70" r="1.1"/><circle class="pisca" cx="860" cy="390" r="1"/>
@@ -65,19 +65,19 @@
       </g>
       <g class="flui1">
         <path d="M60 300 C300 170 460 330 700 220 S1000 90 1340 150 L1340 215 C1010 160 860 300 690 300 S330 260 60 340 Z" fill="url(#dobra)" filter="url(#suave)" opacity="0.95"/>
-        <path d="M80 318 C310 205 470 330 700 250 S1010 120 1340 180" fill="none" stroke="#f3ebd6" stroke-width="2" opacity="0.7" filter="url(#suave)"/>
-        <path d="M80 318 C310 205 470 330 700 250 S1010 120 1340 180" fill="none" stroke="#f3ebd6" stroke-width="1" opacity="0.9"/>
+        <path d="M80 318 C310 205 470 330 700 250 S1010 120 1340 180" fill="none" stroke="#f2dfb7" stroke-width="2" opacity="0.7" filter="url(#suave)"/>
+        <path d="M80 318 C310 205 470 330 700 250 S1010 120 1340 180" fill="none" stroke="#f2dfb7" stroke-width="1" opacity="0.9"/>
       </g>
       <g class="flui2">
         <path d="M200 200 C420 120 560 240 780 170 S1080 40 1340 90 L1340 130 C1080 90 940 210 770 215 S440 170 200 230 Z" fill="url(#dobraVerde)" filter="url(#suave)" opacity="0.9"/>
-        <path d="M220 214 C430 140 570 250 780 192 S1080 70 1340 110" fill="none" stroke="#f3ebd6" stroke-width="0.8" opacity="0.55"/>
+        <path d="M220 214 C430 140 570 250 780 192 S1080 70 1340 110" fill="none" stroke="#f2dfb7" stroke-width="0.8" opacity="0.55"/>
       </g>
     </g>
 
     <!-- estrela principal -->
     <circle cx="1010" cy="128" r="90" fill="url(#luz)"/>
     <g class="brilha">
-      <path d="M1010 80 C1014 112 1026 124 1058 128 C1026 132 1014 144 1010 176 C1006 144 994 132 962 128 C994 124 1006 112 1010 80 Z" fill="#f3ebd6"/>
+      <path d="M1010 80 C1014 112 1026 124 1058 128 C1026 132 1014 144 1010 176 C1006 144 994 132 962 128 C994 124 1006 112 1010 80 Z" fill="#f2dfb7"/>
     </g>
   </g>
 </svg>

@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="360" height="360" viewBox="0 0 360 360" role="img" aria-label="Planeta verde com anel creme">
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="360" viewBox="0 0 360 360" role="img" aria-label="Planeta grafite com anel creme">
   <defs>
     <radialGradient id="esfera" cx="35%" cy="30%" r="75%">
-      <stop offset="0" stop-color="#f3ebd6"/>
-      <stop offset="0.28" stop-color="#5f8a6c"/>
-      <stop offset="0.6" stop-color="#1a422f"/>
-      <stop offset="1" stop-color="#02110c"/>
+      <stop offset="0" stop-color="#f2dfb7"/>
+      <stop offset="0.28" stop-color="#8a7d63"/>
+      <stop offset="0.6" stop-color="#3a352c"/>
+      <stop offset="1" stop-color="#141414"/>
     </radialGradient>
     <linearGradient id="anel" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#f3ebd6" stop-opacity="0.15"/>
-      <stop offset="0.5" stop-color="#f3ebd6" stop-opacity="0.95"/>
-      <stop offset="1" stop-color="#f3ebd6" stop-opacity="0.2"/>
+      <stop offset="0" stop-color="#f2dfb7" stop-opacity="0.15"/>
+      <stop offset="0.5" stop-color="#f2dfb7" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#f2dfb7" stop-opacity="0.2"/>
     </linearGradient>
     <clipPath id="dentro"><circle cx="180" cy="180" r="100"/></clipPath>
     <clipPath id="frente"><rect x="0" y="180" width="360" height="180"/></clipPath>
@@ -31,10 +31,10 @@
     <circle cx="180" cy="180" r="100" fill="url(#esfera)"/>
     <g clip-path="url(#dentro)" opacity="0.55" filter="url(#borra)">
       <g class="gira">
-        <path d="M60 150 C120 120 180 190 300 140" fill="none" stroke="#f3ebd6" stroke-width="5" opacity="0.6"/>
-        <path d="M60 200 C130 170 200 240 300 195" fill="none" stroke="#02110c" stroke-width="14"/>
-        <path d="M70 235 C140 215 210 260 300 230" fill="none" stroke="#1a422f" stroke-width="10"/>
-        <path d="M70 110 C150 95 210 135 300 105" fill="none" stroke="#1a422f" stroke-width="12"/>
+        <path d="M60 150 C120 120 180 190 300 140" fill="none" stroke="#f2dfb7" stroke-width="5" opacity="0.6"/>
+        <path d="M60 200 C130 170 200 240 300 195" fill="none" stroke="#141414" stroke-width="14"/>
+        <path d="M70 235 C140 215 210 260 300 230" fill="none" stroke="#3a352c" stroke-width="10"/>
+        <path d="M70 110 C150 95 210 135 300 105" fill="none" stroke="#3a352c" stroke-width="12"/>
       </g>
     </g>
 
@@ -43,6 +43,6 @@
       <ellipse cx="180" cy="180" rx="160" ry="34" fill="none" stroke="url(#anel)" stroke-width="7" clip-path="url(#frente)"/>
     </g>
 
-    <path d="M300 60 C302 74 306 78 320 80 C306 82 302 86 300 100 C298 86 294 82 280 80 C294 78 298 74 300 60 Z" fill="#f3ebd6"/>
+    <path d="M300 60 C302 74 306 78 320 80 C306 82 302 86 300 100 C298 86 294 82 280 80 C294 78 298 74 300 60 Z" fill="#f2dfb7"/>
   </g>
 </svg>
